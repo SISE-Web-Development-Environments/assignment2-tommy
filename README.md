@@ -9,5 +9,7 @@ Tommy goldenberg 314034471 Omer rauchbach 204663041
 Added functionality: We added an heart emoji that adds lives to player. 
  
 github link : 
+
+https://sise-web-development-environments.github.io/assignment2-tommy/
  
  
